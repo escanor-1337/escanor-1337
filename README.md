@@ -72,3 +72,23 @@ NO NOISE. NO LIMITS. JUST THE PROCESS.
 <sub>◈ ECLIPSE SYSTEMS // END OF TRANSMISSION ◈</sub>
 
 </div>
+
+
+
+---
+
+### `05 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/escanor-1337/escanor-1337/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <sub>◈ ECLIPSE SYSTEMS // END OF TRANSMISSION ◈</sub>
+
+</div>
