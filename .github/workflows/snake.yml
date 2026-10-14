@@ -20,8 +20,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: escanor-1337
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23C4A1FF
+         
+outputs: |
+  dist/github-snake.svg
+  dist/github-snake-dark.svg?palette=github-dark&color_snake=%23C4A1FF
+
 
       - name: Publish animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
