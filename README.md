@@ -92,3 +92,14 @@ NO NOISE. NO LIMITS. JUST THE PROCESS.
   <sub>◈ ECLIPSE SYSTEMS // END OF TRANSMISSION ◈</sub>
 
 </div>
+
+
+---
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=C4A1FF&center=true&vCenter=true&width=600&lines=ESCANOR+%2F%2F+VOID+SYSTEM;ACCESS+GRANTED;WELCOME+TO+THE+ECLIPSE" alt="ESCANOR VOID SYSTEM" />
+
+</div>
+
+---
