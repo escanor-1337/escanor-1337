@@ -1,94 +1,85 @@
 
 <div align="center">
 
-# ☾ E C L I P S E
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080510,50:6D28D9,100:C4A1FF&height=200&section=header&text=ESCANOR&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=VOID%20SYSTEM%20%2F%2F%20ECLIPSE&descAlignY=60&animation=fadeIn" width="100%" />
 
-### `escanor-1337` // VOID PROTOCOL
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:080510,50:24113D,100:080510&text=BEYOND%20THE%20VOID&fontColor=C4A1FF&fontSize=34&fontAlignY=42&desc=ENTER%20THE%20ECLIPSE&descAlignY=63&descSize=13" width="100%" alt="Eclipse banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2500&pause=800&color=C4A1FF&center=true&vCenter=true&width=600&lines=ESCANOR+%2F%2F+VOID+SYSTEM;ACCESS+GRANTED;WELCOME+TO+THE+ECLIPSE" alt="ESCANOR VOID SYSTEM" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-ESCANOR--1337-100B18?style=for-the-badge&logo=github&logoColor=C4A1FF)](https://github.com/escanor-1337)
-![Mode](https://img.shields.io/badge/MODE-VOID-100B18?style=for-the-badge&logo=gnubash&logoColor=C4A1FF)
-![Status](https://img.shields.io/badge/STATUS-EXPLORING-100B18?style=for-the-badge&color=6E42A6)
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-C4A1FF?style=for-the-badge&labelColor=100A1F" />
+<img src="https://img.shields.io/badge/ACCESS-ROOT-8B5CF6?style=for-the-badge&labelColor=100A1F" />
+<img src="https://img.shields.io/badge/MODE-VOID-6D28D9?style=for-the-badge&labelColor=100A1F" />
 
 </div>
 
 ---
 
-### `01 // SYSTEM IDENTITY`
+## `01 // SYSTEM PROFILE`
 
-```console
-┌──(escanor-1337㉿eclipse)-[~]
+```text
+╔══════════════════════════════════════╗
+║          ESCANOR.exe                 ║
+╠══════════════════════════════════════╣
+║  STATUS   : ONLINE                   ║
+║  ID       : escanor-1337             ║
+║  THEME    : ECLIPSE / VOID           ║
+║  ACCESS   : AUTHORIZED               ║
+║  SECURITY : ENCRYPTED                ║
+╚══════════════════════════════════════╝
+```
+
+## `02 // TERMINAL`
+
+```bash
+┌──(escanor㉿eclipse)-[~]
 └─$ whoami
-
 escanor-1337
 
-└─$ cat /etc/motd
+┌──(escanor㉿eclipse)-[~]
+└─$ system_status
+[+] Void system initialized
+[+] Eclipse interface loaded
+[+] Purple protocol enabled
+[+] All systems operational
 
-Curiosity is the exploit.
-Code is the instrument.
-The void is the limit.
+┌──(escanor㉿eclipse)-[~]
+└─$ echo "WELCOME TO THE VOID"
+WELCOME TO THE VOID_
 ```
 
-> Exploring the digital universe, one line at a time.
-
-### `02 // ACTIVE DIRECTIVES`
-
-```text
-[ ACTIVE ] Learning new technologies
-[ ACTIVE ] Building and experimenting
-[ ACTIVE ] Exploring open source
-[  IDLE  ] Waiting for the next challenge...
-```
-
-### `03 // TECH ARSENAL`
+## `03 // TECH STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,linux,vscode&theme=dark&perline=6" alt="Technology icons"/>
-
-</div>
-
-### `04 // TRANSMISSION LOG`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=escanor-1337&show_icons=true&hide_border=true&bg_color=0D0816&title_color=C4A1FF&text_color=C9BEDB&icon_color=9D70E8" width="95%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escanor-1337&layout=compact&hide_border=true&bg_color=0D0816&title_color=C4A1FF&text_color=C9BEDB" width="80%" alt="Most used languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,windows&theme=dark" />
 
 </div>
 
 ---
 
-<div align="center">
-
-```text
-NO NOISE. NO LIMITS. JUST THE PROCESS.
-```
-
-
-
----
-
-
-
+## `04 // GITHUB STATS`
 
 <div align="center">
 
-  <sub>◈ ECLIPSE SYSTEMS // END OF TRANSMISSION ◈</sub>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=escanor-1337&show_icons=true&hide_border=true&bg_color=0D0A18&title_color=C4A1FF&icon_color=8B5CF6&text_color=E9D5FF&rank_icon=github" />
 
-</div>
-
-
----
-
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=C4A1FF&center=true&vCenter=true&width=600&lines=ESCANOR+%2F%2F+VOID+SYSTEM;ACCESS+GRANTED;WELCOME+TO+THE+ECLIPSE" alt="ESCANOR VOID SYSTEM" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escanor-1337&layout=compact&hide_border=true&bg_color=0D0A18&title_color=C4A1FF&text_color=E9D5FF" />
 
 </div>
 
 ---
+
+## `05 // CONNECTION ESTABLISHED`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ENTER_THE_VOID-C4A1FF?style=for-the-badge&logo=github&logoColor=white&labelColor=100A1F" />
+
+<br/><br/>
+
+<sub>◈ ESCANOR // ECLIPSE SYSTEMS ◈</sub>
+
+<sub>「 SILENCE IN THE DARKNESS. POWER IN THE VOID. 」</sub>
+
+</div>
