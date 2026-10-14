@@ -69,10 +69,6 @@ The void is the limit.
 NO NOISE. NO LIMITS. JUST THE PROCESS.
 ```
 
-<sub>◈ ECLIPSE SYSTEMS // END OF TRANSMISSION ◈</sub>
-
-</div>
-
 
 
 ---
